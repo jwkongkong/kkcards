@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jwkongkong/kkcards.git"
+    "url": "https://github.com/jwkongkong/kkcards.git"
   },
   "files": [
     "dist",
